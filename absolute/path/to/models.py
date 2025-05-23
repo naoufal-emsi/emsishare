@@ -1,0 +1,3 @@
+class User(AbstractUser):
+    # ... existing code ...
+    is_active = models.BooleanField(default=True)  # This is the new field

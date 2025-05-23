@@ -1,0 +1,20 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Database files
+*.sqlite3
+
+# IDE specific files (example for VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Sensitive information (e.g., settings files with secrets)
+# settings_local.py
